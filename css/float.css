@@ -1,0 +1,28 @@
+.elementExample {
+  width: 400px;
+  height: 200px;
+  color: #ffffff;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+/*Classe modificadora*/
+.elementExample_first {
+  background-color: #8e44ad;
+  float: right;
+}
+
+/*Classe modificadora*/
+.elementExample_last {
+  background-color: #c0392b;
+  float: right;
+}
+
+article {
+  background-color: violet;
+  overflow: hidden;
+}
+
+p {
+  clear: right;
+}
